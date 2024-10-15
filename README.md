@@ -3,9 +3,11 @@
 # AI Voice Chat Agent
 
 A React-based web application that utilizes OpenAI's API for real-time voice chat functionalities. Users can scrape content from websites, communicate with the AI agent, and experience 3D animations.
-<img width="1391" alt="Screenshot 2024-10-15 at 1 16 02 AM" src="https://github.com/user-attachments/assets/2d2d40ff-b9f1-4c30-be14-fd7a0f0ab27b">
-<img width="1457" alt="Screenshot 2024-10-15 at 1 16 32 AM" src="https://github.com/user-attachments/assets/3a1e8d9c-921d-4374-b364-b6edc3e1095e">
-<img width="1457" alt="Screenshot 2024-10-15 at 1 17 41 AM" src="https://github.com/user-attachments/assets/045cb02b-3395-4f50-afc1-8f5f89256c85">
+<img width="1391" alt="Screenshot 2024-10-15 at 1 16 02 AM" src="https://github.com/user-attachments/assets/349fbfbd-6dfc-4669-8df9-6340ce5a8c1d">
+
+<img width="1457" alt="Screenshot 2024-10-15 at 1 16 32 AM" src="https://github.com/user-attachments/assets/bedf7868-511c-490d-a627-dbe818c6467b">
+<img width="1457" alt="Screenshot 2024-10-15 at 1 17 41 AM" src="https://github.com/user-attachments/assets/5d77ac96-b6f3-488d-94b1-757d7fcd832f">
+
 
 ## Live Demo
 
